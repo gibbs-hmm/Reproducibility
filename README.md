@@ -47,3 +47,7 @@ Standard Deviation of p: 0.11451
 ![Posterior Beta](https://github.com/gibbs-hmm/Reproducibility/blob/main/images/Sampled_Proportions_from_Posterior_Beta_Distribution.png
 )
 
+![Posterior Beta Contour](https://github.com/gibbs-hmm/Reproducibility/blob/main/images/Contour_Representation_of_Posterior_Beta_Distribution.png
+)
+
+
