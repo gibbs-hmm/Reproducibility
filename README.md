@@ -44,4 +44,6 @@ Standard Deviation of p: 0.11451
 0.80 Confidence Interval: (0.53664, 0.78957)
 ```
 
-![Posterior Beta](http://url/to/img.png)
+![Posterior Beta](https://github.com/gibbs-hmm/Reproducibility/blob/main/images/Sampled_Proportions_from_Posterior_Beta_Distribution.png
+)
+
