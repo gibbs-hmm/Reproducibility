@@ -44,13 +44,11 @@ Standard Deviation of p: 0.11451
 0.80 Confidence Interval: (0.53664, 0.78957)
 ```
 
-![Posterior Beta](https://github.com/gibbs-hmm/Reproducibility/blob/main/images/Sampled_Proportions_from_Posterior_Beta_Distribution.png
-)
+<img src="https://github.com/gibbs-hmm/Reproducibility/blob/main/images/Sampled_Proportions_from_Posterior_Beta_Distribution.png" width="560" height="420">
 
-![Posterior Beta Contour](https://github.com/gibbs-hmm/Reproducibility/blob/main/images/Contour_Representation_of_Posterior_Beta_Distribution.png
-)
+<img src="https://github.com/gibbs-hmm/Reproducibility/blob/main/images/Contour_Representation_of_Posterior_Beta_Distribution.png" width="560" height="420">
 
-![Hyperparameters](https://github.com/gibbs-hmm/Reproducibility/blob/main/images/hyperparameters.png)
+<img src="https://github.com/gibbs-hmm/Reproducibility/blob/main/images/hyperparameters.png" width="560" height="420">
 
 Optimal Design of Validation Studies
 ---------------
