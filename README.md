@@ -63,7 +63,7 @@ Before a validation study is carried out, investigators may want to design the s
 
 •	`ps`: The fraction of experiments expected to successfully yield either a positive or negative result (1−ps is the fraction of experiments expected to fail due to failure of primers, etc...)
 
-•	`Nper`: The number of simulations per replicate number. Nper = 3,000 gives tight error bars, but is extremely slow, and only feasible if multiple processors are available to run simulations in parallel. To take advantage of parallel computing, uncomment lines 16, 17, and 33, Comment line 30.  Chane line 16 to the number of processors you wish to use.  See the `parpool` help file for more details.
+•	`Nper`: The number of simulations per replicate number. Nper = 3,000 gives tight error bars, but is extremely slow, and only feasible if multiple processors are available to run simulations in parallel. To take advantage of parallel computing, , uncomment lines 16, 28, 104, and 105, Comment line 29.   See the `parpool` help file for more details.
 
 The middle three “expected” values will typically be based on the previous experience of the investigators.
 
