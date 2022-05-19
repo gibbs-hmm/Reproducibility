@@ -75,6 +75,6 @@ When the script is finished running, it outputs a text file with the means and s
 draw_optimal_curves(96, 0.6, 0.09, 0.6, 3000)
 ```
 
-![Predictive Distribution](https://github.com/gibbs-hmm/Reproducibility/blob/main/images/repro.png =560x420)
+<img src="https://github.com/gibbs-hmm/Reproducibility/blob/main/images/repro.png" width="560" height="420")
 
 
