@@ -1,0 +1,8 @@
+Number of Experiments: 205   32   30   32   29
+Number of Validations: 151   17   21   24   18
+Mean of p: 0.67123
+Standard Deviation of p: 0.11451
+10th percentile of p: 0.53664
+0.95 Confidence Interval: (0.39099, 0.87705)
+0.90 Confidence Interval: (0.46635, 0.83692)
+0.80 Confidence Interval: (0.53664, 0.78957)

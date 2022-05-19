@@ -1,0 +1,91 @@
+3 Replicates
+
+Standard deviation of p has Mean = 0.2036, Standard Deviation = 0.039488, SEM = 0.00072095
+10th percentile of p has Mean = 0.30908, Standard Deviation = 0.10647, SEM = 0.0019438, Valid N = 3000
+
+
+4 Replicates
+
+Standard deviation of p has Mean = 0.18308, Standard Deviation = 0.040815, SEM = 0.00074518
+10th percentile of p has Mean = 0.34946, Standard Deviation = 0.10527, SEM = 0.0019219, Valid N = 3000
+
+
+5 Replicates
+
+Standard deviation of p has Mean = 0.17463, Standard Deviation = 0.042909, SEM = 0.00078341
+10th percentile of p has Mean = 0.36262, Standard Deviation = 0.1046, SEM = 0.0019097, Valid N = 3000
+
+
+6 Replicates
+
+Standard deviation of p has Mean = 0.17004, Standard Deviation = 0.042237, SEM = 0.00077114
+10th percentile of p has Mean = 0.37062, Standard Deviation = 0.10211, SEM = 0.0018642, Valid N = 3000
+
+
+7 Replicates
+
+Standard deviation of p has Mean = 0.16788, Standard Deviation = 0.042211, SEM = 0.00077066
+10th percentile of p has Mean = 0.3752, Standard Deviation = 0.10154, SEM = 0.0018538, Valid N = 3000
+
+
+8 Replicates
+
+Standard deviation of p has Mean = 0.16467, Standard Deviation = 0.041648, SEM = 0.00076039
+10th percentile of p has Mean = 0.38084, Standard Deviation = 0.09802, SEM = 0.0017896, Valid N = 3000
+
+
+9 Replicates
+
+Standard deviation of p has Mean = 0.16564, Standard Deviation = 0.04286, SEM = 0.00078252
+10th percentile of p has Mean = 0.3787, Standard Deviation = 0.10166, SEM = 0.001856, Valid N = 3000
+
+
+10 Replicates
+
+Standard deviation of p has Mean = 0.16406, Standard Deviation = 0.043171, SEM = 0.00078819
+10th percentile of p has Mean = 0.3791, Standard Deviation = 0.10118, SEM = 0.0018472, Valid N = 3000
+
+
+12 Replicates
+
+Standard deviation of p has Mean = 0.16661, Standard Deviation = 0.042897, SEM = 0.00078319
+10th percentile of p has Mean = 0.37597, Standard Deviation = 0.10046, SEM = 0.0018342, Valid N = 3000
+
+
+13 Replicates
+
+Standard deviation of p has Mean = 0.16662, Standard Deviation = 0.045033, SEM = 0.00082218
+10th percentile of p has Mean = 0.37769, Standard Deviation = 0.10482, SEM = 0.0019138, Valid N = 3000
+
+
+16 Replicates
+
+Standard deviation of p has Mean = 0.16937, Standard Deviation = 0.044866, SEM = 0.00081915
+10th percentile of p has Mean = 0.37312, Standard Deviation = 0.10233, SEM = 0.0018683, Valid N = 3000
+
+
+19 Replicates
+
+Standard deviation of p has Mean = 0.17268, Standard Deviation = 0.047022, SEM = 0.00085851
+10th percentile of p has Mean = 0.36937, Standard Deviation = 0.10456, SEM = 0.001909, Valid N = 3000
+
+
+24 Replicates
+
+Standard deviation of p has Mean = 0.1802, Standard Deviation = 0.050713, SEM = 0.00092588
+10th percentile of p has Mean = 0.35477, Standard Deviation = 0.1122, SEM = 0.0020485, Valid N = 3000
+
+
+32 Replicates
+
+Standard deviation of p has Mean = 0.19019, Standard Deviation = 0.053744, SEM = 0.00098122
+10th percentile of p has Mean = 0.34059, Standard Deviation = 0.11728, SEM = 0.0021412, Valid N = 3000
+
+
+48 Replicates
+
+Standard deviation of p has Mean = 0.2157, Standard Deviation = 0.061493, SEM = 0.0011227
+10th percentile of p has Mean = 0.29651, Standard Deviation = 0.13292, SEM = 0.0024268, Valid N = 3000
+
+
+3000 simulations per data point, valid simulations per data point has average = 3000
