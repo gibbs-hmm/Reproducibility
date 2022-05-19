@@ -43,3 +43,5 @@ Standard Deviation of p: 0.11451
 0.90 Confidence Interval: (0.46635, 0.83692)
 0.80 Confidence Interval: (0.53664, 0.78957)
 ```
+
+![Posterior Beta](http://url/to/img.png)
